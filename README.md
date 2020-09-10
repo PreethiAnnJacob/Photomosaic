@@ -1,5 +1,5 @@
 # Photomosaic
-Generate photomosaic using Scikit-image and Photomosaic. Input images are taken from skimage/data.<br>
+Generate photomosaic using Scikit-image and Photomosaic. Input images are taken from skimage/data. The intermediate experimentation tiles are present in folder /square. <br>
 
 Input:<br>
 ![chelsea](chelsea.png "chelsea")<br>
@@ -14,4 +14,4 @@ Output : <br>
 
 Run : python pm.py 500 500 chelsea500x500.png<br>
 Output : <br>
-![chelsea500x500](chelsea100x100.png "chelsea500x500")<br>
+![chelsea500x500](chelsea500x500.png "chelsea500x500")<br>
